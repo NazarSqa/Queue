@@ -1,0 +1,11 @@
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\bin\Debug\CodeblogQueue.exe.config
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\bin\Debug\CodeblogQueue.exe
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\bin\Debug\CodeblogQueue.pdb
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\CodeblogQueue.csprojAssemblyReference.cache
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\CodeblogQueue.csproj.CoreCompileInputs.cache
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\CodeblogQueue.exe
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\CodeblogQueue.pdb
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\Queue.csprojAssemblyReference.cache
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\Queue.exe
+D:\Завантаження\CodeblogQueue-master\CodeblogQueue\obj\Debug\Queue.pdb
